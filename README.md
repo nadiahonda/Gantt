@@ -13,4 +13,4 @@ Create a Gantt Chart using data from an Excel file
 ## Requirements
 
 - Python libraries: `matplotlib`, `pandas`, `openpyxl`
-- Excel (.xlsx file) containing columns 'Start', 'Duration', 'Batch', 'Resource 1', 'Resource 2', 'Resource 3'
+- Excel (.xlsx file) containing columns `Start`, `Duration`, `Batch`, `Resource 1`, `Resource 2`, `Resource 3`
