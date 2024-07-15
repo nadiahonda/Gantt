@@ -4,7 +4,7 @@ Create a Gantt Chart using data from an Excel file
 ## How to Use
 
 - Run main.pyw
-- Select Excel file with input data.
+- Select Excel file with input data (sample_data.xlsx is provided as an example)
 - Choose colors per batch within a certain color pallete.
 - Option to include or hide resource 'F&P' from Gantt chart (if existing in Excel file)
 - Time unit definition to appear in labels (e.g. min, h)
